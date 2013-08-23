@@ -1,0 +1,26 @@
+{
+  "name": "backbone.error",
+  "version": "0.0.1",
+  "authors": [
+    "Matt Briggs <matt@mattbriggs.net>"
+  ],
+  "description": "extendable error base class using backbones object model",
+  "main": "backbone-error.js",
+  "keywords": [
+    "backbone",
+    "error",
+    "object"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/mbriggs/backbone.error",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.0.0"
+  }
+}
