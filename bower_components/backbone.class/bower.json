@@ -1,0 +1,16 @@
+{
+  "name": "backbone.class",
+  "version": "0.2.0",
+  "main": "backbone.class.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependancies": {
+    "backbone": "*",
+    "underscore": "*"
+  }
+}

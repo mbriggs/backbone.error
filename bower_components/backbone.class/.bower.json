@@ -1,0 +1,26 @@
+{
+  "name": "backbone.class",
+  "version": "0.2.0",
+  "main": "backbone.class.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependancies": {
+    "backbone": "*",
+    "underscore": "*"
+  },
+  "homepage": "https://github.com/mbriggs/backbone.class",
+  "_release": "0.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.0",
+    "commit": "4e74e95707714549d9a43a25af1236dd117ddbfc"
+  },
+  "_source": "git://github.com/mbriggs/backbone.class.git",
+  "_target": "~0.2.0",
+  "_originalSource": "backbone.class"
+}
