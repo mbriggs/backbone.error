@@ -21,6 +21,7 @@
     "tests"
   ],
   "dependencies": {
-    "backbone": "~1.0.0"
+    "backbone": "~1.0.0",
+    "backbone.class": "~0.2.0"
   }
 }

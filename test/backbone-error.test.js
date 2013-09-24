@@ -9,6 +9,11 @@ describe("Backbone.Error", function() {
     expect(error.message).to.eq('foo');
   });
 
+  it("sets constructor name to error", function(){
+    var error = new Backbone.Error('foo');
+    expect(error.constructor.name).to.eq('Error');
+  })
+
   describe("extended", function() {
     var TestError = Backbone.Error.extend({
       name: 'TestError',
